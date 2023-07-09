@@ -1,7 +1,7 @@
-import Card from "./Components/Atoms/Card/Card";
+import MyResponsiveLine from "./Components/Atoms/Chart/Chart";
 
 function App() {
-	return <><Card></Card></>
+	return <><MyResponsiveLine></MyResponsiveLine></>
 }
 
 export default App
