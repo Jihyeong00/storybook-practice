@@ -68,7 +68,7 @@ console.log(data)
 export default MyResponsiveLine
 
 
-const Wrapper = styled.div`
+export const Wrapper = styled.div`
   width: 413px;
   height: 291px;
 `

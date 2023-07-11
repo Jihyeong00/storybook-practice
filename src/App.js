@@ -1,7 +1,7 @@
-import MyResponsiveLine from "./Components/Atoms/Chart/Chart";
+import Recharts_Chart from "./Components/Atoms/Chart/Recharts_Chart";
 
 function App() {
-	return <><MyResponsiveLine></MyResponsiveLine></>
+	return <><Recharts_Chart></Recharts_Chart></>
 }
 
 export default App
