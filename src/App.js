@@ -1,7 +1,7 @@
-import  {VictoryChartApp} from "./Components/Atoms/Chart/Victory_Chart";
+import Recharts_Chart from "./Components/Atoms/Chart/Recharts_Chart";
 
 function App() {
-	return <><VictoryChartApp></VictoryChartApp></>
+	return <><Recharts_Chart></Recharts_Chart></>
 }
 
 export default App
